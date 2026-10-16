@@ -33,9 +33,9 @@
 
 ## Другие примеры
 
-- [VideoHosting](https://github.com/boot88/VideoHosting) — видеокаталог на Laravel с категориями, просмотром, комментариями и лайками.
-- [Web Alarm Clock](https://github.com/boot88/blog) — веб-будильник с расписанием, днями недели и звуковыми сигналами.
-- [Art Gallery](https://github.com/boot88/banki-shop-test) — демонстрационная витрина картин на Vue с поиском, модальным просмотром и локальным состоянием корзины.
-- [Wheel Coating Configurator](https://github.com/boot88/Diski_polimer) — подбор размера и покрытия дисков с превью, стоимостью и формой заявки.
+- [Video Catalog](https://github.com/boot88/laravel-video-catalog) — видеокаталог на Laravel с категориями, просмотром, комментариями и лайками.
+- [Web Alarm Clock](https://github.com/boot88/web-alarm-clock) — веб-будильник с расписанием, днями недели и звуковыми сигналами.
+- [Vue Art Gallery](https://github.com/boot88/vue-art-gallery) — демонстрационная витрина картин на Vue с поиском, модальным просмотром и локальным состоянием корзины.
+- [Wheel Coating Configurator](https://github.com/boot88/wheel-coating-configurator) — подбор размера и покрытия дисков с превью, стоимостью и формой заявки.
 
 Инструкции, особенности запуска и текущие ограничения находятся в README соответствующих проектов.
